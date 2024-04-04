@@ -1,0 +1,146 @@
+#section{
+    height: 500px;
+    width: 500px;
+    background-color: darkgrey;
+    margin: 0px auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#section form{
+    display: inline-block;
+    text-align: center;
+    padding: 20px 150px;
+}
+#section form label{
+    font-size: 20px;
+}
+#section form h3{
+    text-align: left;
+    font-size: 15px;
+}
+#section form button{
+    padding: 5px 50px;
+}
+#section form button:hover{
+    background-color: black;
+    color: white;
+}
+#section form h4{
+    text-align: left;
+}
+#section2{
+    height: 500px;
+    width: 500px;
+    background-color: darkgrey;
+    margin: 0px auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#section2 form{
+    display: inline-block;
+    text-align: center;
+    padding: 20px 150px;
+}
+#section2 form h3{
+    text-align: left;
+    font-size: 15px;
+}
+#section2 form button{
+    padding: 5px 50px;
+    margin-top: 10px;
+}
+#section2 form label{
+    font-size: 20px;
+}
+#section2 form button:hover{
+    background-color: black;
+    color: white;
+}
+#section3{
+    height: 500px;
+    width: 500px;
+    background-color: darkgrey;
+    margin: 0px auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#section3 form{
+    display: inline-block;
+    text-align: center;
+    padding: 20px 150px;
+}
+#section3 form label{
+    font-size: 20px;
+}
+#section3 form h3{
+    text-align: left;
+    font-size: 15px;
+}
+#section3 form h4{
+    text-align: left;
+}
+#section3 form button{
+    padding: 5px 50px;
+    margin-top: 10px;
+}
+#section3 form button:hover{
+    background-color: black;
+    color: white;
+}
+#section4{
+    height: 500px;
+    width: 500px;
+    background-color: darkgrey;
+    margin: 0px auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#section4 form{
+    display: inline-block;
+    text-align: center;
+    padding: 20px 150px;
+}
+#section4 form label{
+    font-size: 20px;
+}
+#section4 form h3{
+    text-align: left;
+    font-size: 15px;/
+}
+#section4 form button{
+    padding: 5px 50px;
+    margin-top: 10px;
+}
+#section4 form button:hover{
+    background-color: black;
+    color: white;
+}
+#section5{
+    height: 500px;
+    width: 500px;
+    background-color: darkgrey;
+    margin: 0px auto;
+    margin-top: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#section5 form{
+    display: inline-block;
+    text-align: center;
+    padding: 20px 150px;
+}
+#section5 form label{
+    font-size: 20px;
+}
+#section5 form button{
+    padding: 5px 50px;
+    margin-top: 10px;
+}
+#section5 form button:hover{
+    background-color: black;
+    color: white;
+}   
